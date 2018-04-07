@@ -30,6 +30,8 @@ header{
 	margin-top: 20px;
 }
 .header-button{
+	display: inline-block;
+	text-decoration: none;
 background-color: #ffffff;
   box-shadow: 10px 17px 34px 6px rgba(18, 61, 145, 0.83);
     border-radius: 50px;
